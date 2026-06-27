@@ -1,0 +1,6 @@
+{
+  "name": "Shree Ram Rooms Manager",
+  "description": "Premium Material Design 3 rental management application for single building owners to track 36 rooms, tenants, payments, electricity meter readings, and revenue analytics.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
